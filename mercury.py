@@ -1,3 +1,4 @@
+
 #input string name
 textdir = input("text name: \n")
 
