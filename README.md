@@ -30,7 +30,7 @@ they warned you about this didnt they?
 "dont run a strangers code"
 but you didnt listen did you?
 
-anyway, i have no idea why you downloaded this
+anyway, i have no idea why you are here for this
 why you want an artists songs sorted into alphabetical order
 this started off so i could splice freddy mercury lyrics together
 but  for some reason i had to also include searching artists
