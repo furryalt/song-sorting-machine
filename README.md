@@ -16,11 +16,12 @@ i tried to keep my copying from the internet to a minimum, but there is some the
 though i do want to say its just theivery from the proper api site, how else would i know to do "for song in artist.songs:"
 
 for this to run you will need:
-python3
-pip
-lyricsgenius
-500g butter
-and a reason to run some kids code off the internet
+python3,
+pip,
+lyricsgenius,
+500g butter,
+and a reason to run some kids code off the internet,
+
 it has no viruises i promise
 well i cant promise that, something may have latched itself to this code that im not aware of
 but if there is a viruis on here all responsibility is on you
