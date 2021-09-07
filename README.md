@@ -8,7 +8,12 @@ the code can now run by itself, no choosing files manually
 it also now contains a non automatic version of the sorting thing
 just run rerive.py
 
-my friend dosent understand how hard making a ui for an app is so next update down the pipeline is that
+im currently working on this app but school is back today so i may be uploading to it less often, currently in the roster to be added, we have:
+a GUI
+song names being displayed with the alphabetical jargon output
+options to customise your output
+individual song searching
+and still no waluigi (dammit nintendo)
 
 If the coding is bad,
 even terrible at times,
@@ -20,7 +25,11 @@ for this to run you will need:
 python3,
 pip,
 lyricsgenius,
-500g butter,
+225g butter,
+225g sugar,
+4 large eggs,
+225g flour,
+a large preferably golden laced spoon,
 and a reason to run some kids code off the internet,
 
 it has no viruises i promise
@@ -30,9 +39,9 @@ its not _my_ fault you went ran my code all dilly dally over the internet, did y
 they warned you about this didnt they?
 "dont run a strangers code"
 but you didnt listen did you?
+well look where you are now.
 
 anyway, i have no idea why you are here for this
 why you want an artists songs sorted into alphabetical order
-this started off so i could splice freddy mercury lyrics together
+this started off so i could splice freddy mercury voice clips together easier for a joke
 but  for some reason i had to also include searching artists
-i might include individual songs search later idk
