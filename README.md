@@ -8,6 +8,8 @@ the code can now run by itself, no choosing files manually
 it also now contains a non automatic version of the sorting thing
 just run rerive.py
 
+my friend dosent understand how hard making a ui for an app is so next update down the pipeline is that
+
 If the coding is bad,
 even terrible at times,
 this is my first proper endevour into actual coding for a purpose.
