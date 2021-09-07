@@ -4,10 +4,9 @@ thats right, EVERYTHING, well...
 as long as by everything you mean an artist that can be found on genius.com....
 and that has their lyrics properly sorted out
 
-as of right now you need to run all parts manualy 
-thats because i still need to add stuff
-in fact its basically just fully unfinished
-the only reason its on github is so i can get the api key
+the code can now run by itself, no choosing files manually
+it also now contains a non automatic version of the sorting thing
+just run rerive.py
 
 If the coding is bad,
 even terrible at times,
